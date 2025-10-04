@@ -6,7 +6,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 public class Main {
-    private static final String SHARE_ID = "请填写你要下载的知识库 SHARE_ID";
+    private static final String SHARE_ID = "7262497c4556f04445b54e8579295a8c65db4222306fae7d6193b926ba15d3e1";
     private static final int DOWNLOAD_THREADS = 20; // 并发下载线程数
 
     public static void main(String[] args) {
